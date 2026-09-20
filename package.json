@@ -1,0 +1,14 @@
+{
+  "name": "bus-verse-system",
+  "version": "1.0.0",
+  "description": "BusVerse fullstack booking system with database and comprehensive bus stops",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "seed": "node seed.js"
+  },
+  "keywords": ["bus", "reservation", "booking", "busverse", "sqlite"],
+  "author": "",
+  "license": "MIT"
+}
